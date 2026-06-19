@@ -1,5 +1,4 @@
-# DontCallMe — strict (kun højt-verificerede)
-# Auto-genereres fremover af dontcallme.eu. Format: number,label (se ../CONTRIBUTING.md).
+# DontCallMe — strict (auto-genereret fra dontcallme.eu)
 number,label
-+4591999273, Telemarketing
-+4523616445, Doh
++4523616445,Spam
++4591999273,Telemarketing
