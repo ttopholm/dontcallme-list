@@ -11,9 +11,10 @@ Hentes direkte af appen som rå CSV.
 | `lists/standard.csv` | Moderat tærskel — **app-default** |
 | `lists/aggressive.csv` | Alt rated som spam — flest numre, flere falske positive |
 
-Listerne genereres fremover automatisk af **dontcallme.eu** ud fra
-community-ratings. Indtil da er de seedet manuelt og kan opdateres via pull
-requests.
+Listerne **genereres automatisk** af **dontcallme.eu** ud fra community-ratings
+(eksport dagligt). Redigér dem ikke i hånden — de overskrives. Bidrag i stedet
+ved at rapportere på dontcallme.eu, eller tilføj curaterede/myndigheds-numre i
+[`seeds/`](seeds/). Se [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Format
 

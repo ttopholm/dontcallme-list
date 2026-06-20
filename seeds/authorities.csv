@@ -1,0 +1,16 @@
+# Curaterede numre fra OFFENTLIGGJORTE kilder (myndigheds-/bank-/politi-advarsler).
+# Importeres til DontCallMe-DB'en med scripts/import-seeds.mjs (dontcallme-eu);
+# eksport-jobbet samler dem op i lists/*.csv. Redigér IKKE lists/ direkte — de
+# auto-genereres og overskrives.
+#
+# Kolonner: number,category,source,note
+#   number   = E.164 (+45…) eller lokalt (normaliseres, default DK)
+#   category = spam | telemarketing | scam | robocall | other
+#   source   = attribution (fx myndighedens navn) — kræves for sporbarhed
+#   note     = valgfri (fx dato/link til den offentlige advarsel)
+#
+# Tilføj kun numre fra en offentligt tilgængelig, troværdig kilde — og medsend
+# kilden i 'note'. Ingen scraping af lukkede databaser.
+number,category,source,note
+# Eksempel (fjern # når et rigtigt, offentliggjort nummer tilføjes):
+# +4570000000,scam,forbrugerombudsmanden,"Advarsel 2026-06 https://kilde.dk/…"
