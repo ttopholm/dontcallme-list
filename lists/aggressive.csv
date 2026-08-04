@@ -1,4 +1,4 @@
-# DontCallMe — aggressive (auto-genereret 2026-08-03T03:01:00.643Z)
+# DontCallMe — aggressive (auto-genereret 2026-08-04T03:00:38.960Z)
 number,label
 +302103550306,Spam
 +37064696899,Other
@@ -9,12 +9,14 @@ number,label
 +38975336418,Spam
 +447505762055,Scam
 +447529520828,Scam
++447562642516,Other
 +447576066503,Spam
 +447597677404,Spam
 +447746547729,Spam
 +4524472771,Spam
 +4532221835,Spam
 +4532221839,Spam
++4532221894,Spam
 +4536101372,Spam
 +4552518218,Spam
 +4552518241,Telemarketing
