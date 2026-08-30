@@ -1,6 +1,10 @@
-# DontCallMe — aggressive (auto-genereret 2026-08-29T03:00:20.929Z)
+# DontCallMe — aggressive (auto-genereret 2026-08-30T03:00:17.493Z)
 number,label
 +302103550306,Spam
++32468737514,Robocall
++32475290344,Robocall
++33611228170,Robocall
++33683875927,Robocall
 +37064696899,Other
 +37125139825,Spam
 +380507839529,Scam
@@ -21,6 +25,7 @@ number,label
 +4536101372,Spam
 +4552518218,Spam
 +4552518241,Telemarketing
++4552661570,Spam
 +4554128417,Spam
 +4570405216,Telemarketing
 +4570405236,Telemarketing
@@ -28,6 +33,9 @@ number,label
 +4571744277,Telemarketing
 +4582138343,Spam
 +4591999273,Telemarketing
++46737942292,Robocall
++4915144244969,Robocall
++4916047321397,Robocall
 +8809606934693,Scam
 +923028505886,Spam
 +923141486963,Spam
